@@ -4,7 +4,7 @@
 
 
 # MS.-Excel-For-Data-Analysis
-About Practice exercises and projects to learn data analysis with Excel. Glad to see you here, Let's explore together! 🔍💻
+About Practice exercises and projects to learn data analysis with Excel. Glad to see you here. Let's explore it together! 🔍💻
 This repository contains my practice exercises and projects related to data analysis using Microsoft Excel.
 
 # MS-Excel-For-Data-Analysis
