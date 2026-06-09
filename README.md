@@ -52,9 +52,7 @@ This repository aims to cover a wide range of Excel functionalities essential fo
 3.  **Explore:** Open the `.xlsx` files in Microsoft Excel to see the analysis in action. Check the tutorial files for step-by-step instructions.
 
 ---
-## To access this files :-
-> step 1. **download the file**
-> step 2. click on the file --> click on raw data
+
 
 ## Contributing
 
